@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="girls">
+        <item>沉鱼落雁</item>
+        <item>秀色可餐</item>
+        <item>绝一代之丽</item>
+        <item>秀靥艳比花娇。玉颜艳春红</item>
+        <item>皆佳丽美艳之貌</item>
+        <item>小白长红越女腮</item>
+        <item>贝齿</item>
+        <item>笑遗光</item>
+        <item>红袖添香</item>
+        <item>娴静</item>
+        <item>淑女</item>
+        <item>丽质</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>巾帼风姿</item>
+        <item>罗绮文秀</item>
+
+    </string-array>
+</resources>
